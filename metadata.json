@@ -203,6 +203,7 @@
     }
   ],
   "backgroundColor" : "00000000",
+  "description": "The sounds of life in nature",
   "name" : "Animals",
   "image" : "jpeg",
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
