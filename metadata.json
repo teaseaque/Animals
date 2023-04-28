@@ -206,5 +206,5 @@
   "backgroundColor" : "00000000",
   "name" : "Animals",
   "image" : "jpeg",
-  "sorts" : "W3sic29ydFZhbHVlIjoibmFtZSIsImlzRm9yd2FyZCI6dHJ1ZX1d"
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
 }
