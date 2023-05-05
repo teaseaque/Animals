@@ -1,209 +1,176 @@
 {
+  "color" : "FF9500",
   "sounds" : [
     {
-      "capacity" : 1130112,
-      "fileName" : "Alligator.mp3",
-      "start" : 38338,
-      "name" : "Alligator",
-      "image" : "🐊",
-      "color" : "34C759"
-    },
-    {
-      "capacity" : 210240,
-      "fileName" : "Bee.mp3",
-      "name" : "Bee",
-      "image" : "🐝",
-      "color" : "FFCC00"
-    },
-    {
-      "capacity" : 487296,
-      "fileName" : "Buffalo.mp3",
-      "name" : "Buffalo",
-      "image" : "🦬",
-      "color" : "F6CD5B"
-    },
-    {
-      "capacity" : 73152,
-      "fileName" : "Cat.mp3",
-      "name" : "Cat",
-      "image" : "🐱",
-      "color" : "F77D46"
-    },
-    {
-      "capacity" : 65088,
-      "fileName" : "Chicken.mp3",
-      "name" : "Chicken",
-      "image" : "🐔",
-      "color" : "007AFF"
-    },
-    {
-      "capacity" : 58752,
-      "fileName" : "Chimpanzee.mp3",
-      "name" : "Chimpanzee",
-      "image" : "🐒",
-      "color" : "AF8733"
-    },
-    {
-      "capacity" : 71424,
-      "fileName" : "Cow.mp3",
-      "name" : "Cow",
-      "image" : "🐄",
-      "color" : "007AFF"
-    },
-    {
-      "capacity" : 1283703,
-      "end" : 1124731,
-      "start" : 178564,
-      "fileName" : "Crickets.mp3",
-      "color" : "91A766",
-      "image" : "🦗",
-      "name" : "Crickets"
-    },
-    {
-      "capacity" : 43200,
-      "fileName" : "Dog.mp3",
-      "name" : "Dog",
-      "image" : "🐶",
-      "color" : "A06B23"
-    },
-    {
-      "capacity" : 824256,
-      "fileName" : "Donkey.mp3",
-      "end" : 289441,
-      "name" : "Donkey",
-      "image" : "🫏",
-      "color" : "722F10"
-    },
-    {
-      "capacity" : 54144,
-      "fileName" : "Duck.mp3",
-      "name" : "Duck",
-      "image" : "🦆",
-      "color" : "65A979"
-    },
-    {
-      "capacity" : 93312,
-      "fileName" : "Elephant.mp3",
-      "name" : "Elephant",
-      "image" : "🐘",
-      "color" : "858585"
-    },
-    {
-      "capacity" : 96192,
-      "fileName" : "Fox.mp3",
-      "name" : "Fox",
-      "image" : "🦊",
-      "color" : "FF9500"
-    },
-    {
-      "capacity" : 478656,
-      "fileName" : "Frogs.mp3",
-      "name" : "Frogs",
-      "image" : "🐸",
-      "color" : "34C759"
-    },
-    {
-      "capacity" : 121536,
-      "fileName" : "Goose.mp3",
-      "name" : "Goose",
-      "image" : "🪿",
-      "color" : "007AFF"
-    },
-    {
-      "capacity" : 112896,
-      "fileName" : "Gorilla.mp3",
-      "name" : "Gorilla",
-      "image" : "🦍",
-      "color" : "C7AD8C"
-    },
-    {
-      "capacity" : 38592,
-      "fileName" : "Horse.mp3",
-      "name" : "Horse",
-      "image" : "🐴",
-      "color" : "BD9013"
-    },
-    {
-      "capacity" : 73728,
-      "fileName" : "Leopard.mp3",
-      "name" : "Leopard",
-      "image" : "🐆",
-      "color" : "F7AA46"
-    },
-    {
-      "capacity" : 55872,
-      "fileName" : "Lion.mp3",
-      "name" : "Lion",
-      "image" : "🦁",
-      "color" : "FF9500"
-    },
-    {
-      "capacity" : 51840,
-      "fileName" : "Mosquito.mp3",
-      "name" : "Mosquito",
-      "image" : "🦟",
-      "color" : "675127"
-    },
-    {
-      "capacity" : 82368,
-      "fileName" : "Pig.mp3",
-      "name" : "Pig",
-      "image" : "🐷",
-      "color" : "E8A7BF"
-    },
-    {
-      "capacity" : 100800,
-      "fileName" : "Rattlesnake.mp3",
-      "name" : "Rattlesnake",
-      "image" : "🐍",
-      "color" : "65C490"
-    },
-    {
-      "capacity" : 58752,
-      "fileName" : "Rhino.mp3",
-      "name" : "Rhino",
-      "image" : "🦏",
-      "color" : "B4B4B4"
-    },
-    {
-      "capacity" : 94464,
-      "fileName" : "Sheep.mp3",
+      "customSortIndex" : 0,
       "name" : "Sheep",
       "image" : "🐑",
       "color" : "D6D6D6"
     },
     {
-      "capacity" : 703296,
-      "fileName" : "Squirrel.mp3",
-      "end" : 117535,
-      "name" : "Squirrel",
-      "image" : "🐿",
-      "color" : "BF6C37"
+      "customSortIndex" : 1,
+      "name" : "Rhino",
+      "image" : "🦏",
+      "color" : "B4B4B4"
     },
     {
-      "capacity" : 76032,
-      "fileName" : "Tiger.mp3",
+      "customSortIndex" : 2,
+      "name" : "Elephant",
+      "image" : "🐘",
+      "color" : "858585"
+    },
+    {
+      "customSortIndex" : 3,
+      "name" : "Wolf",
+      "image" : "🐺",
+      "color" : "5C5C5C"
+    },
+    {
+      "customSortIndex" : 4,
+      "name" : "Pig",
+      "image" : "🐷",
+      "color" : "E8A7BF"
+    },
+    {
+      "customSortIndex" : 5,
+      "name" : "Turkey",
+      "image" : "🦃",
+      "color" : "8B69CC"
+    },
+    {
+      "customSortIndex" : 6,
+      "name" : "Cow",
+      "image" : "🐄",
+      "color" : "2458D7"
+    },
+    {
+      "name" : "Goose",
+      "customSortIndex" : 7,
+      "image" : "🪿"
+    },
+    {
+      "customSortIndex" : 8,
+      "name" : "Rattlesnake",
+      "image" : "🐍",
+      "color" : "65C490"
+    },
+    {
+      "customSortIndex" : 9,
+      "name" : "Duck",
+      "image" : "🦆",
+      "color" : "65A979"
+    },
+    {
+      "customSortIndex" : 10,
+      "name" : "Alligator",
+      "image" : "🐊",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 11,
+      "name" : "Frogs",
+      "image" : "🐸",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 12,
+      "name" : "Crickets",
+      "image" : "🦗",
+      "color" : "91A766"
+    },
+    {
+      "customSortIndex" : 13,
+      "name" : "Buffalo",
+      "image" : "🦬",
+      "color" : "F6CD5B"
+    },
+    {
+      "customSortIndex" : 14,
+      "name" : "Bee",
+      "image" : "🐝",
+      "color" : "FFCC00"
+    },
+    {
+      "customSortIndex" : 15,
       "name" : "Tiger",
       "image" : "🐯",
       "color" : "F5C944"
     },
     {
-      "capacity" : 97344,
-      "fileName" : "Turkey.mp3",
-      "name" : "Turkey",
-      "image" : "🦃",
-      "color" : "DE789D"
+      "customSortIndex" : 16,
+      "name" : "Chimpanzee",
+      "image" : "🐒",
+      "color" : "E1C171"
     },
     {
-      "capacity" : 369792,
-      "fileName" : "Wolf.mp3",
-      "name" : "Wolf",
-      "image" : "🐺",
-      "color" : "858585"
+      "customSortIndex" : 17,
+      "name" : "Leopard",
+      "image" : "🐆",
+      "color" : "F7AA46"
+    },
+    {
+      "customSortIndex" : 18,
+      "name" : "Lion",
+      "image" : "🦁",
+      "color" : "FF9500"
+    },
+    {
+      "customSortIndex" : 19,
+      "name" : "Fox",
+      "image" : "🦊",
+      "color" : "FF9500"
+    },
+    {
+      "customSortIndex" : 20,
+      "name" : "Cat",
+      "image" : "🐱",
+      "color" : "F77D46"
+    },
+    {
+      "customSortIndex" : 21,
+      "name" : "Chicken",
+      "image" : "🐔",
+      "color" : "E76151"
+    },
+    {
+      "customSortIndex" : 22,
+      "name" : "Squirrel",
+      "image" : "🐿",
+      "color" : "BF6C37"
+    },
+    {
+      "customSortIndex" : 23,
+      "name" : "Donkey",
+      "image" : "🫏",
+      "color" : "A05E23"
+    },
+    {
+      "customSortIndex" : 24,
+      "name" : "Gorilla",
+      "image" : "🦍",
+      "color" : "BD9D62"
+    },
+    {
+      "customSortIndex" : 25,
+      "name" : "Horse",
+      "image" : "🐴",
+      "color" : "A77D45"
+    },
+    {
+      "customSortIndex" : 26,
+      "name" : "Dog",
+      "image" : "🐶",
+      "color" : "A06B23"
+    },
+    {
+      "customSortIndex" : 27,
+      "name" : "Mosquito",
+      "image" : "🦟",
+      "color" : "675127"
     }
   ],
-  "description" : "The sounds of life in nature",
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
   "name" : "Animals",
-  "image" : "jpeg",
-  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "image" : "0C2D19B5-2A99-4B23-AB86-E404B3906AF5.jpeg",
+  "description" : "Furry little babies (not all tho actually)"
 }
