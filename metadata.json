@@ -2,168 +2,140 @@
   "color" : "FF9500",
   "sounds" : [
     {
-      "customSortIndex" : 0,
       "name" : "Sheep",
       "image" : "🐑",
       "color" : "D6D6D6"
     },
     {
-      "customSortIndex" : 1,
       "name" : "Rhino",
       "image" : "🦏",
       "color" : "B4B4B4"
     },
     {
-      "customSortIndex" : 2,
       "name" : "Elephant",
       "image" : "🐘",
       "color" : "858585"
     },
     {
-      "customSortIndex" : 3,
       "name" : "Wolf",
       "image" : "🐺",
       "color" : "5C5C5C"
     },
     {
-      "customSortIndex" : 4,
       "name" : "Pig",
       "image" : "🐷",
       "color" : "E8A7BF"
     },
     {
-      "customSortIndex" : 5,
       "name" : "Turkey",
       "image" : "🦃",
       "color" : "8B69CC"
     },
     {
-      "customSortIndex" : 6,
       "name" : "Cow",
       "image" : "🐄",
       "color" : "2458D7"
     },
     {
       "name" : "Goose",
-      "customSortIndex" : 7,
       "image" : "🪿"
     },
     {
-      "customSortIndex" : 8,
       "name" : "Rattlesnake",
       "image" : "🐍",
       "color" : "65C490"
     },
     {
-      "customSortIndex" : 9,
       "name" : "Duck",
       "image" : "🦆",
       "color" : "65A979"
     },
     {
-      "customSortIndex" : 10,
       "name" : "Alligator",
       "image" : "🐊",
       "color" : "34C759"
     },
     {
-      "customSortIndex" : 11,
       "name" : "Frogs",
       "image" : "🐸",
       "color" : "34C759"
     },
     {
-      "customSortIndex" : 12,
       "name" : "Crickets",
       "image" : "🦗",
       "color" : "91A766"
     },
     {
-      "customSortIndex" : 13,
       "name" : "Buffalo",
       "image" : "🦬",
       "color" : "F6CD5B"
     },
     {
-      "customSortIndex" : 14,
       "name" : "Bee",
       "image" : "🐝",
       "color" : "FFCC00"
     },
     {
-      "customSortIndex" : 15,
       "name" : "Tiger",
       "image" : "🐯",
       "color" : "F5C944"
     },
     {
-      "customSortIndex" : 16,
       "name" : "Chimpanzee",
       "image" : "🐒",
       "color" : "E1C171"
     },
     {
-      "customSortIndex" : 17,
       "name" : "Leopard",
       "image" : "🐆",
       "color" : "F7AA46"
     },
     {
-      "customSortIndex" : 18,
       "name" : "Lion",
       "image" : "🦁",
       "color" : "FF9500"
     },
     {
-      "customSortIndex" : 19,
       "name" : "Fox",
       "image" : "🦊",
       "color" : "FF9500"
     },
     {
-      "customSortIndex" : 20,
       "name" : "Cat",
       "image" : "🐱",
       "color" : "F77D46"
     },
     {
-      "customSortIndex" : 21,
       "name" : "Chicken",
       "image" : "🐔",
       "color" : "E76151"
     },
     {
-      "customSortIndex" : 22,
       "name" : "Squirrel",
       "image" : "🐿",
       "color" : "BF6C37"
     },
     {
-      "customSortIndex" : 23,
       "name" : "Donkey",
       "image" : "🫏",
       "color" : "A05E23"
     },
     {
-      "customSortIndex" : 24,
       "name" : "Gorilla",
       "image" : "🦍",
       "color" : "BD9D62"
     },
     {
-      "customSortIndex" : 25,
       "name" : "Horse",
       "image" : "🐴",
       "color" : "A77D45"
     },
     {
-      "customSortIndex" : 26,
       "name" : "Dog",
       "image" : "🐶",
       "color" : "A06B23"
     },
     {
-      "customSortIndex" : 27,
       "name" : "Mosquito",
       "image" : "🦟",
       "color" : "675127"
